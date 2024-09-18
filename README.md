@@ -1,8 +1,7 @@
 ## Hi there 👋
 
 [![Amirhossein-Mirzaee's github activity](https://github-readme-activity-graph.vercel.app/graph?username=Amirhossein-Mirzaee&theme=react)](https://github.com/Amirhossein-Mirzaee/github-readme-activity-graph)
-[![GitHub Streak](https://streak-stats.demolab.com/?Amirhossein-Mirzaee=DenverCoder1)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=Amirhossein-Mirzaee&theme=dark&border_radius=12&date_format=%5BY%20%5DM%20j&mode=weekly)](https://git.io/streak-stats)
 <!--
 **Amirhossein-Mirzaee/Amirhossein-Mirzaee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
