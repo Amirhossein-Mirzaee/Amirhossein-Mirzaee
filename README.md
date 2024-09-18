@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![Amirhossein-Mirzaee's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Amirhossein-Mirzaee)](https://github.com/Amirhossein-Mirzaee/github-readme-activity-graph)
+
 <!--
 **Amirhossein-Mirzaee/Amirhossein-Mirzaee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
